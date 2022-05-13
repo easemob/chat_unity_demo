@@ -438,16 +438,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d3fc89430340142c788c6c156dd30ee9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Username: {fileID: 0}
-  Password: {fileID: 0}
-  SignChatId: {fileID: 0}
-  MessageContent: {fileID: 0}
-  GroupId: {fileID: 0}
+  Username: {fileID: 1924091023}
+  Password: {fileID: 2111345461}
+  SignChatId: {fileID: 377192643}
+  MessageContent: {fileID: 217742706}
   SignInBtn: {fileID: 1142213589}
   SignUpBtn: {fileID: 1790415521}
   SignOutBtn: {fileID: 71492082}
   SendMsgBtn: {fileID: 272548033}
-  JoinGroupBtn: {fileID: 0}
   LogText: {fileID: 1947757189}
 --- !u!1 &217742704
 GameObject:
