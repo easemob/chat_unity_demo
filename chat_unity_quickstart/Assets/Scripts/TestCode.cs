@@ -55,17 +55,17 @@ public class TestCode : MonoBehaviour
     // 初始化聊天SDK
     private void InitSDK()
     {
- 
+        //TODO:
     }
 
     // 添加消息监听
     private void AddChatDelegate() {
-        
+        //TODO:
     }
 
     // 移除消息监听
     private void RemoveChatDelegate() {
-
+        //TODO:
     }
 
     // 点击SignIn按钮
@@ -75,6 +75,7 @@ public class TestCode : MonoBehaviour
             return;
         }
 
+        //TODO:
     }
 
     // 点击SignUp按钮
@@ -86,12 +87,13 @@ public class TestCode : MonoBehaviour
             return;
         }
 
+        //TODO:
     }
 
     // 点击SignOut按钮
     private void SignOutAction()
     {
-       
+        //TODO:
     }
 
     // 点击Send按钮
@@ -102,7 +104,7 @@ public class TestCode : MonoBehaviour
             return;
         }
 
-       
+        //TODO:
     }
 
     // 添加日志到控制台
