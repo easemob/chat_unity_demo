@@ -1,14 +1,10 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
 
 public class TestCode : MonoBehaviour
 {
-    // 初始化SDK用的Appkey，此处的值为演示用，如果正式环境需要使用你申请的Appkey
-    static string APPKEY = "easemob-demo#easeim";
-
     // user id控件，获取输入的userId可以调用: Username.text
     public InputField Username;
 
