@@ -1,14 +1,10 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
 
 public class TestCode : MonoBehaviour
 {
-    // 初始化SDK用的Appkey，此处的值为演示用，如果正式环境需要使用你申请的Appkey
-    static string APPKEY = "easemob-demo#easeim";
-
     // user id控件，获取输入的userId可以调用: Username.text
     public InputField Username;
 
@@ -59,17 +55,17 @@ public class TestCode : MonoBehaviour
     // 初始化聊天SDK
     private void InitSDK()
     {
- 
+        //TODO:
     }
 
     // 添加消息监听
     private void AddChatDelegate() {
-        
+        //TODO:
     }
 
     // 移除消息监听
     private void RemoveChatDelegate() {
-
+        //TODO:
     }
 
     // 点击SignIn按钮
@@ -79,6 +75,7 @@ public class TestCode : MonoBehaviour
             return;
         }
 
+        //TODO:
     }
 
     // 点击SignUp按钮
@@ -90,12 +87,13 @@ public class TestCode : MonoBehaviour
             return;
         }
 
+        //TODO:
     }
 
     // 点击SignOut按钮
     private void SignOutAction()
     {
-       
+        //TODO:
     }
 
     // 点击Send按钮
@@ -106,7 +104,7 @@ public class TestCode : MonoBehaviour
             return;
         }
 
-       
+        //TODO:
     }
 
     // 添加日志到控制台
